@@ -1,7 +1,7 @@
 import Head from 'next/head'
-import { Element } from '@/components/Element'
-import { Navbar } from '@/components/Navbar'
-import { Hero } from '@/components/Hero'
+import { Element } from '../components/Element'
+import { Navbar } from '../components/Navbar'
+import { Hero } from '../components/Hero'
 
 export default function Home() {
   return (
